@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f8fafc; /* Warna putih semu yang ramah di mata */
+  color: #171717;            /* Warna teks hitam gelap agar kontras */
+  font-family: Arial, Helvetica, sans-serif;
+}
